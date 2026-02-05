@@ -71,3 +71,7 @@ npm run dev
 
 - **TPP Mode**: Camera follows behind player for gameplay
 - **Orbit Mode**: Free camera rotation around player for inspection
+
+
+## License
+This project is for educational and demonstration purposes under the MIT license.
