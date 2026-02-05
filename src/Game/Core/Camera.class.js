@@ -23,7 +23,7 @@ export default class Camera {
     /**
      * Camera configurations
      */
-    this.mode = 'orbit'; // Default to Orbit mode
+    this.mode = 'tpp'; // Default to TPP
     this.targetMode = this.mode;
     this.isTransitioning = false;
     this.transitionProgress = 0;
